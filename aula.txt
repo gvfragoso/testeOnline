@@ -7,3 +7,5 @@ criar um repositorio online e passá-lo para o desktop:
 - clone in desktop
 - ir na pasta para ver se está tudo ok
 - compartilhar: configurações, add colaboradores, digita o nick ou o email, vai ser enviada uma solicitação pelo email.
+
+- barra  colorida para mostrar a porcentagem de coisas que tem no repositório
