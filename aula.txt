@@ -1,0 +1,9 @@
+criar um repositorio online e passá-lo para o desktop:
+- "+"
+- coloca o nome do repositório
+- descrição opcional
+- selecionar para iniciar o repositorio com um READ.ME para poder usá-lo no desktop
+- você também pode selecionar uma licença; vou usar o creative commons que são licenças jurídicas gratuitas.
+- clone in desktop
+- ir na pasta para ver se está tudo ok
+- compartilhar: configurações, add colaboradores, digita o nick ou o email, vai ser enviada uma solicitação pelo email.
